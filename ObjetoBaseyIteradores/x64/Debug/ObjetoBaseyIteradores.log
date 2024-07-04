@@ -1,0 +1,15 @@
+﻿  Adaptador.cpp
+  Base.cpp
+  ColeccionArreglo.cpp
+C:\Users\DELL\Documents\Progra-2\Segundo Examen\ObjetoBaseyIteradores\ColeccionArreglo.cpp(7,11): warning C4091: '': se ha omitido a la izquierda de 'Coleccion' cuando no hay ninguna variable declarada
+C:\Users\DELL\Documents\Progra-2\Segundo Examen\ObjetoBaseyIteradores\ColeccionArreglo.cpp(54,25): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  ColeccionLista.cpp
+  IteradorArreglo.cpp
+C:\Users\DELL\Documents\Progra-2\Segundo Examen\ObjetoBaseyIteradores\IteradorArreglo.cpp(7,10): warning C4091: '': se ha omitido a la izquierda de 'Iterador' cuando no hay ninguna variable declarada
+  IteradorLista.cpp
+C:\Users\DELL\Documents\Progra-2\Segundo Examen\ObjetoBaseyIteradores\IteradorLista.cpp(5,10): warning C4091: '': se ha omitido a la izquierda de 'Iterador' cuando no hay ninguna variable declarada
+  Main.cpp
+  Nodo.cpp
+  Persona.cpp
+  Generando código...
+  ObjetoBaseyIteradores.vcxproj -> C:\Users\DELL\Documents\Progra-2\Segundo Examen\ObjetoBaseyIteradores\x64\Debug\ObjetoBaseyIteradores.exe

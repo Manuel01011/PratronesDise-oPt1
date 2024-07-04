@@ -1,0 +1,9 @@
+﻿  ColeccionArreglo.cpp
+C:\Users\DELL\Documents\Progra-2\Segundo Examen\iterador3\ColeccionArreglo.cpp(39,24): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  IteradorArreglo.cpp
+C:\Users\DELL\Documents\Progra-2\Segundo Examen\iterador3\IteradorArreglo.cpp(7,10): warning C4091: '': se ha omitido a la izquierda de 'Iterador' cuando no hay ninguna variable declarada
+  Juegos.cpp
+  Main.cpp
+  Generando código...
+C:\Users\DELL\Documents\Progra-2\Segundo Examen\iterador3\ColeccionArreglo.cpp(23): warning C4715: 'ColeccionArreglo::optener': no todas las rutas de acceso de control devuelven un valor
+  iterador3.vcxproj -> C:\Users\DELL\Documents\Progra-2\Segundo Examen\iterador3\x64\Debug\iterador3.exe
